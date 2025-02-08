@@ -5,13 +5,13 @@ Este projeto tem como objetivo o desenvolvimento de uma página web para a inici
 
 ## 🚀 Funcionalidades do Projeto
 
-Apresentação do projeto Coração Canino
+- Apresentação do projeto Coração Canino
 
-Seção de animais disponíveis para adoção
+- Seção de animais disponíveis para adoção
 
-Formulário de contato para adoção e parcerias
+- Formulário de contato para adoção e parcerias
 
-Layout responsivo para acesso em diferentes dispositivos
+- Layout responsivo para acesso em diferentes dispositivos
 
 
 
