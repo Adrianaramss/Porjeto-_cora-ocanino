@@ -9,7 +9,7 @@ Este projeto tem como objetivo o desenvolvimento de uma página web para a inici
 
 - Seção de animais disponíveis para adoção
 
-- Formulário de contato para adoção e parcerias
+- Formulário de contato para adoção 
 
 - Layout responsivo para acesso em diferentes dispositivos
 
