@@ -29,5 +29,5 @@ Este projeto tem como objetivo o desenvolvimento de uma página web para a inici
 git clone https://github.com/Adrianaramss/Porjeto-_cora-ocanino.git
 
 ```
-
-
+## 🛰 Acesse aqui para visualizar a pagina
+https://porjeto-cora-ocanino.vercel.app/
